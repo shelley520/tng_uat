@@ -1,0 +1,4 @@
+creditcard:
+  - by: xpath
+    locator: "//*[@resource-id='topup_index_button_listItem']//*[@content-desc=Credit Card']"
+    action: click

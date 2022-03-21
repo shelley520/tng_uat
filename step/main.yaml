@@ -1,0 +1,4 @@
+topup:
+  - by: xpath
+    locator: "//*[@content-desc='Top-Up']"
+    action: click

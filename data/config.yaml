@@ -1,0 +1,7 @@
+caps:
+  platformName: "Android"
+  deviceName: "127.0.0.1:7555"
+  appPackage: "com.sinodynamic.tng.consumer.uat"
+  appActivity: "com.sinodynamic.tng.consumer.view.modern.versatile.VersatileActivity"
+  noReset: True
+  unicodeKeyboard: True
